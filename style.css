@@ -1,0 +1,24 @@
+body   {
+    background-color: aliceblue;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    background-color: #fff;
+
+}
+
+.container img {
+
+}
+
+.content-container {
+    width: 100%;
+}
